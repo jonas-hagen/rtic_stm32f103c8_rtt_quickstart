@@ -1,0 +1,5 @@
+[template]
+include = [
+  "Cargo.toml",
+  "README.md"
+]
